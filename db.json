@@ -1,14 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "locations": [
+    { "description": "test description", "locationCode": "loc329250", "addressLine1": "test utca 1", "city": "Szekesfehervar", "state": "Fejer" },
+    { "description": "test description2", "locationCode": "loc329251", "addressLine1": "test utca 2", "city": "Szekesfehervar", "state": "Fejer" },
+    { "description": "test description3", "locationCode": "loc329252", "addressLine1": "test utca 3", "city": "Szekesfehervar", "state": "Fejer" },
+    { "description": "test description4", "locationCode": "loc329253", "addressLine1": "test utca 4", "city": "Szekesfehervar", "state": "Fejer" },
+    { "description": "test description5", "locationCode": "loc329254", "addressLine1": "test utca 5", "city": "Szekesfehervar", "state": "Fejer" }
+  ]
 }
