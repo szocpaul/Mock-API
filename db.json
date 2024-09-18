@@ -5,5 +5,8 @@
     { "description": "test description3", "locationCode": "loc329252", "addressLine1": "test utca 3", "city": "Szekesfehervar", "state": "Fejer" },
     { "description": "test description4", "locationCode": "loc329253", "addressLine1": "test utca 4", "city": "Szekesfehervar", "state": "Fejer" },
     { "description": "test description5", "locationCode": "loc329254", "addressLine1": "test utca 5", "city": "Szekesfehervar", "state": "Fejer" }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
